@@ -26,7 +26,6 @@ Skills: Kubernetes, Docker,
 
 <p align="center">
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=athreyapatel" />
 <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fathreyapatel" />
 
 </p>
