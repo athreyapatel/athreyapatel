@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Athreya Patel
 #### I am a Devops and Full Stack Engineer
-![I am a Devops and Full Stack Engineer](https://github.com/athreyapatel/athreyapatel/blob/master/Untitled%20design.gif?raw=true)
+![I am a Devops and Full Stack Engineer](https://github.com/athreyapatel/athreyapatel/blob/master/Athreya%20(2).png?raw=true)
 
 
 Skills: Kubernetes, Docker, 
