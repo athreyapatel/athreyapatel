@@ -18,3 +18,15 @@ Skills: Kubernetes, Docker,
 ![Profile views](https://gpvc.arturio.dev/athreyapatel)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=athreyapatel&show_icons=true)  
+### 📝 Latest articles from [dev.to](https://dev.to/athreyapatel)
+
+* May 02 2020 [Jenkins Tweaks for Beginners - Part 2](https://dev.to/athreyapatel/jenkins-tweaks-for-beginners-part-2-3e04) 
+* Apr 28 2020 [Awesome Features in Jenkins which makes it interesting for beginners — Part 1](https://dev.to/athreyapatel/awesome-features-in-jenkins-which-makes-it-interesting-for-beginners-part-1-4365) 
+
+
+<p align="center">
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=athreyapatel.athreyapatel" />
+<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fathreyapatel" />
+
+</p>
