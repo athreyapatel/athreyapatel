@@ -3,15 +3,15 @@
 ![I am a Devops and Full Stack Engineer](https://github.com/athreyapatel/athreyapatel/blob/master/Athreya%20(2).png?raw=true)
 
 
-Skills: Kubernetes, Docker, 
+Skills: Python, Kubernetes, Docker, Golang, Spring, React
 
-🔭 I’m currently working on DevOps 
+🔭 I’m currently working on Backend and DevOps
 
-🌱 I’m currently learning Go, Flutter 
+🌱 I’m currently learning Go, Vue
 
-💬 Ask me about DevOps 
+💬 Ask me about Backend and DevOps 
 
-📫 How to reach me: mail@athreyapatel.codes 
+📫 How to reach me: mail@athreyapatel.me
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/athreyapatel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/athreyapatel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/athreyapatel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://blog.athreyapatel.me/)  
 
